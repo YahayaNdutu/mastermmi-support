@@ -1,4 +1,4 @@
-# MasterMMI Support
+# MINTS Support
 
 Welcome to the MasterMMI support center. This documentation will help you get started with the app and answer common questions.
 
